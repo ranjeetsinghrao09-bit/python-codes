@@ -1,2 +1,2 @@
-# python-codes
+# python basic codes
 for sharing python codes
